@@ -1,0 +1,8 @@
+.header-navbar{
+    display: inline-flex;
+padding: 5px 11px;
+justify-content: center;
+align-items: center;
+gap: 21px;
+color: black;
+}
